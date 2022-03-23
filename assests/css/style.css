@@ -599,6 +599,10 @@ header .navbar ul li a:hover{
     height: .8rem;
   }
 }
+@media(max-width:250px) {
+  .skills{
+    height: 130vh;
+  }
 /* skills media queries ends*/
 /* skills section ends */
 

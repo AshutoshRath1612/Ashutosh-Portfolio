@@ -56,6 +56,7 @@ html::-webkit-scrollbar-thumb{
   opacity: 0;
   z-index: -100;
 }
+
 /* pre loader end */
 
 /* navbar starts */
@@ -574,6 +575,9 @@ header .navbar ul li a:hover{
 
 /* skills media queries starts*/
 @media screen and (max-width: 600px){
+  .skills{
+    height: 120vh;
+  }
   .skills .container{
     padding: 0;
     margin: 0;

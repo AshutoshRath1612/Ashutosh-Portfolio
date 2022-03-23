@@ -576,7 +576,7 @@ header .navbar ul li a:hover{
 /* skills media queries starts*/
 @media screen and (max-width: 600px){
   .skills{
-    height: 120vh;
+    height: 100%;
   }
   .skills .container{
     padding: 0;
@@ -597,11 +597,6 @@ header .navbar ul li a:hover{
   }
   .skills .container .col .bar .line{
     height: .8rem;
-  }
-}
-@media(max-width:250px) {
-  .skills{
-    height: 130vh;
   }
 }
 /* skills media queries ends*/

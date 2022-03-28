@@ -1,6 +1,7 @@
 # Ashutosh-Portfolio
 
 <a href="https://github.com/AshutoshRath1612/Ashutosh-Portfolio"><img src="https://sloc.xyz/github/AshutoshRath1612/Ashutosh-Portfolio" alt="LOC"/></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=AshutoshRath1612.Ashutosh-Portfolio&left_color=black&right_color=yellow" />
 
 <h2> Website: 
 <a href="https://ashutoshrath1612.github.io/Ashutosh-Portfolio/" target="_blank">Visit Now🚀</a>
